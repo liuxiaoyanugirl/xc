@@ -41,7 +41,7 @@ export default {
     return {
       motto: 'Hello 欢迎进入星宠社区',
       userInfo: {
-        nickName: 'mpvue',
+        nickName: 'ugirl',
         avatarUrl: 'http://mpvue.com/assets/logo.png'
       }
     }
